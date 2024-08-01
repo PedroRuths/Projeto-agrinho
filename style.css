@@ -30,7 +30,7 @@ body {
 }
 .imagem {
 width: 25%;
-padding: 5px 0;
+padding: 5px 100;
 }
 
 .cole {
@@ -39,7 +39,7 @@ padding: 5px 0;
     display: flex;
     justify-content:center;
     align-items: center;
-    padding: 20px 0;
+    padding: 150px 0;
 } 
 
 .escola-div {
@@ -63,6 +63,8 @@ padding: 5px 0;
 }
 .pessoas {
     background-color: #06ff44   ;
+    padding: 100px 0;
+
 }
 .pessoas-titulo {
     text-align: center;
@@ -80,4 +82,12 @@ padding: 5px 0;
 .rodape-img {
 height: 90px;
 padding: 7px 0;
+}
+.campo { background-image: linear-gradient(#06ff44,#06ff44);
+    color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 0px 0;
+
 }
